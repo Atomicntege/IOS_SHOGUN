@@ -169,4 +169,17 @@ I have briefly listed some methods here, you can check out the 'API_Content' tut
 
 -----
 
+The import method is available by directly importing the jar|Support Java 19, relative maven framework code:
+        
+    <dependencies>
+        <dependency>
+            <groupId>IOS_SHOGUN</groupId>
+            <artifactId>IOS_SHOGUN_Toolkit</artifactId>
+            <version>1.0-FRAME</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/IOS_SHOGUN_Toolkit-1.0-FRAME.jar</systemPath>
+        </dependency>
+    </dependencies>
 
+-----
+   
