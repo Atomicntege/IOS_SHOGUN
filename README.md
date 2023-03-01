@@ -1,9 +1,14 @@
-# IOS_SHOGUN-Colorful
+# IOS_SHOGUN-Colorful-1.1
 
 'IOS_ SHOGUN's Java development framework colorful @ is copyrighted by Atomic and 'IOS_SHOGUN' All developers have a tag: 'colorful-Frame'|
 
+'Update Time-2022-3-2':
+
+Here are some unexpected issues that were discovered earlier in Colorful 1.0 - which have now been fixed
+
+---------
+
 [Github-flavored Java version](https://github.com/Atomicntege/IOS_SHOGUN/)
-|
 In this folder 'API-Content' contains some basic tutorials that will help you understand the colorful framework
 
 2023-2-16 When we updated, we fixed some minor issues:
@@ -96,12 +101,12 @@ __response--Update--Name optimization-Update:
     1.0 and other interfaces
 
 Basic use of exhibits:
-    1.
+1.
 
     IOS_SHOGUN_Toolkit ios_shogun=new IOS_SHOGUN_Toolkit();
 
 Basic use of exhibits:
-    2.
+2.
 
     //LAX parsing
     JTO.LAX("[A,B,C,1,2,3,A=12]").SeeTask();
@@ -112,8 +117,8 @@ Basic use of exhibits:
     //...
 
 Basic use of exhibits:
-    3.
-    
+3.
+
         IOS_SHOGUN_Toolkit SHOGUN=new IOS_SHOGUN_Toolkit();
         SHOGUN.NET_GET("URL", (Facet_injections) -> {
             Facet_injections.UpgradeToEncrypt();//HTTP->HTTPS
@@ -135,16 +140,16 @@ Basic use of exhibits:
         });
 
 Basic use of exhibits:
-    MD5 4.
-    
+MD5 4.
+
             IOS_SHOGUN_Toolkit SHOGUN=new IOS_SHOGUN_Toolkit();
         console.info(SHOGUN.MD5HashEncryption("ABC"));
         //output->902FBDD2B1DF0C4F70B4A5D23525E932
         SHOGUN.MD5FingerprintComparison("MD5 contrast","MD5 contrast");
 
 Basic use of exhibits:
-    PS Image Simple: Example:
-        
+PS Image Simple: Example:
+
         IOS_SHOGUN_Toolkit SHOGUN=new IOS_SHOGUN_Toolkit();
         ImageChannel IC=new ImageChannel(A-> {
             try {
@@ -170,7 +175,7 @@ I have briefly listed some methods here, you can check out the 'API_Content' tut
 -----
 
 The import method is available by directly importing the jar|Support Java 19, relative maven framework code:
-        
+
     <dependencies>
         <dependency>
             <groupId>IOS_SHOGUN</groupId>
