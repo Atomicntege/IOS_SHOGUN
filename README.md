@@ -6,6 +6,12 @@
 
 Here are some unexpected issues that were discovered earlier in Colorful 1.0 - which have now been fixed
 
+Some updated notices:
+
+79:The speed optimization of the safe set was further processed
+
+83:Version later added a powerful conversion ecology
+
 ---------
 
 [Github-flavored Java version](https://github.com/Atomicntege/IOS_SHOGUN/)
