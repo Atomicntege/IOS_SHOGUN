@@ -1,3 +1,5 @@
+# Latest version - 1.2
+...
 # IOS_SHOGUN-Colorful-1.1
 
 'IOS_ SHOGUN's Java development framework colorful @ is copyrighted by Atomic and 'IOS_SHOGUN' All developers have a tag: 'colorful-Frame'|
